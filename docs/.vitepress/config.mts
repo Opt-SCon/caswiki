@@ -48,7 +48,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '学习资源',
+        text: '算法学习资源',
         items: [
           { text: '基础', link: '/basic/index', },
           { text: '字符串', link: '/string/index', },
